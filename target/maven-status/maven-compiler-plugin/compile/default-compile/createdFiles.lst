@@ -1,0 +1,5 @@
+com\seuprojeto\model\Employee.class
+com\seuprojeto\controller\MainController.class
+com\seuprojeto\MainApplication.class
+com\seuprojeto\service\EmployeeService.class
+com\seuprojeto\model\OutsourcedEmployee.class
